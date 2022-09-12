@@ -1,0 +1,37 @@
+body{
+  background-color: rgba(100, 162, 255, 0.507);
+}
+
+.input-group{
+  width: 40%;
+}
+
+.card{
+  max-width: 80%;
+  
+}
+
+.card-title{
+  position: absolute;
+  padding: 20px;
+}
+
+.card-date{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+}
+
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 260px;
+  font-size: 60px;
+}
+
+.card-desc{
+  position: absolute;
+  padding-left: 30px;
+  margin-top: 330px;
+}
+
